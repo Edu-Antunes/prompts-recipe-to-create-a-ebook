@@ -23,7 +23,7 @@
 O objetivo deste projeto é gerar um **ebook educativo** sobre **Git e GitHub**, utilizando ferramentas de Inteligência Artificial para **criar texto, imagens e diagramação visual**.  
 A ideia é mostrar como é possível aprender e ensinar tecnologia com o auxílio de I.A.s criativas, otimizando tempo e melhorando a apresentação do conteúdo.
 
-📕 <a href="https://github.com/Edu-Antunes/ebook-git-galactico/blob/main/output/ebook-guia-dev-galactico.pdf" title="View PDF now">Clique aqui para ler o eBook</a>
+📕 <a href="https://github.com/Edu-Antunes/ebook-multiverso-front/blob/main/output/ebook-multiverso-front.pdf" title="View PDF now">Clique aqui para ler o eBook</a>
 
 ---
 
