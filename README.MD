@@ -10,7 +10,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/cover.jpg"
     width="400"  
     alt="Capa do Ebook Guia Dev Galáctico"
 />
