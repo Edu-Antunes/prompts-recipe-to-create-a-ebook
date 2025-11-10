@@ -91,8 +91,7 @@ A ideia é mostrar como é possível aprender e ensinar tecnologia com o auxíli
   &nbsp;&nbsp;Desenvolvedor Full Stack & Criador de Conteúdo com IA<br>
   &nbsp;&nbsp;
   <a href="https://github.com/Edu-Antunes">GitHub</a> |
-  <a href="https://linkedin.com/in/seuusuario">LinkedIn</a> |
-  <a href="https://instagram.com/seuusuario">Instagram</a>
+  <a href="https://linkedin.com/in/eduardo-antunes-de-souza-1a129259</a>  
   </p>
 </p>
 
